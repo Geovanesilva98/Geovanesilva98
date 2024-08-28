@@ -6,8 +6,12 @@
 
  
  <div>
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
    
+   <img src="https://img.icons8.com/?size=100&id=OvHfxNJ4T2jr&format=png&color=000000"> 
+   <img src="https://img.icons8.com/?size=100&id=2tHbkMhSLMfq&format=png&color=000000">
+   <img src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000">
+   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000">
+    
+   
+     
   </div>
